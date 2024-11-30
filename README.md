@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iam-jatoi
+- 👋 Hi, I’m Jabbar Jatoi (@iam-jatoi)
 - 👀 I’m interested in Agentic AI
 - 🌱 I’m currently learning Agentic AI
 - 💞️ I’m looking to collaborate on ...

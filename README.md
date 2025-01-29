@@ -1,4 +1,4 @@
-👋 Hello, World! I'm a curious and passionate beginner developer stepping into the world of coding.
+#### 👋 Hello, World! I'm a curious and passionate beginner developer stepping into the world of coding.
 
 💡 About Me:
 🌱 Currently learning Python, JavaScript, and Git.

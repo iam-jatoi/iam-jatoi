@@ -1,4 +1,4 @@
-# 👋 Hello, This is Jabbar Jatoi.
+# 👋 Jabbar Jatoi - Software Engineer
 
 💡 About Me:
 🌱 Currently learning Python, JavaScript, and Git.

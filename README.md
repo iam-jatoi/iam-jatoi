@@ -1,6 +1,6 @@
 # 👋 Jabbar Jatoi - Software Engineer
 
-### 💡 About Me:
+## 💡 About Me:
 ### 🌱 Currently learning Python, JavaScript, and Git.
 ### 🛠️ Experimenting with web development, data structures, and basic algorithms.
 ### 🚀 Exploring projects that challenge me to learn and grow every day.

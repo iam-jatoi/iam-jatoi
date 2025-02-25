@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi , I'm Jabbar Jatoi</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h1 align="center"> 👋 Jabbar Jatoi</h1>
+<h3 align="center">💻 A passionate Software Engineer</h3>
 
 <p align="cener"> <img src="https://raw.githubusercontent.com/MSubhajitIND/MSubhajitIND/Main/coding.gif" /> </p>
 

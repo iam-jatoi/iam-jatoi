@@ -1,6 +1,6 @@
 ![logo](https://github.com/iam-jatoi/iam-jatoi/blob/main/Github%20Banner.png)
 <h1 align="center">Agentic AI, GenAI, Web3, and Metaverse</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">💡 My Goal is to Continuously Grow As a Developer, Experiment With Creative Ideas, and Collaborate With The Community.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -14,6 +14,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/jabbar-jatoi-621510bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
 <a href="https://www.instagram.com/iam___jatoi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
+<a href="(https://www.facebook.com/Jabbar.Jatoi99)/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Mr.JayCoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" /></a>
 </p>
 
@@ -22,8 +23,14 @@
 
 <h3 align="left">Support:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jabbar Jatoi &show_icons=true&locale=en&layout=compact" alt="Jabbar Jatoi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jabbar Jatoi&show_icons=true&locale=en&layout=compact" alt="Jabbar Jatoi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jabbar Jatoi &show_icons=true&locale=en" alt="Jabbar Jatoi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jabbar Jatoi&show_icons=true&locale=en" alt="Jabbar Jatoi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jabbar Jatoi &" alt="Jabbar Jatoi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jabbar Jatoi&" alt="Jabbar Jatoi" /></p>
+
+
+
+
+https://www.facebook.com/Jabbar.Jatoi99
+

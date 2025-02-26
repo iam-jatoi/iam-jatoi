@@ -1,5 +1,5 @@
 ![logo](https://github.com/iam-jatoi/iam-jatoi/blob/main/Github%20Banner.png)
-<h1 align="center"> 👋 Jabbar Jatoi</h1>
+<h1 align="center"> Governor Sindh Initiative for GenAI, Web3, and Metaverse </h1>
 <h3 align="center">💻 A passionate Software Engineer</h3>
 
 <p align="cener"> <img src="https://raw.githubusercontent.com/MSubhajitIND/MSubhajitIND/Main/coding.gif" /> </p>

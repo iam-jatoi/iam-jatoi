@@ -1,4 +1,4 @@
-
+![logo](https://github.com/iam-jatoi/iam-jatoi/blob/main/Github%20Banner.png)
 <h1 align="center"> 👋 Jabbar Jatoi</h1>
 <h3 align="center">💻 A passionate Software Engineer</h3>
 
